@@ -1,0 +1,338 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "Jumanji: The Next Level",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "director": "Matt Tolmach",
+        "duration": "120",
+        "synopsis": "Dwayne Johnson, Karen Gillan, Jack Black dan Kevin Hart kembali ke Jumanji, keempatnya harus menyelamatkan salah satu teman mereka. Namun permainan telah berubah. Para pemain kini harus lebih berani melintasi rintangan ekstrem dan kembali dengan selamat dari permainan paling berbahaya di dunia.",
+        "casts": [
+          " Dwayne Johnson",
+          " ",
+          " Karen Gilian",
+          " ",
+          " Jack Black "
+        ],
+        "booked": [
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157380448937451_287x421.jpg",
+        "video": "https://www.youtube.com/embed/rBxcF-r9Ibs",
+        "age": "15+"
+      },
+      {
+        "id": 3,
+        "name": "Trinity Traveler",
+        "genre": [
+          "Drama"
+        ],
+        "director": "Rizal Mantovani",
+        "duration": 97,
+        "synopsis": "Trinity (Maudy Ayunda) menerbitkan buku pertamanya dan menjadi bestseller. Sekarang dia lebih dikenal sebagai TRINITY TRAVELER dan dapat beasiswa S2 di Filipina sambil tetap menjalani hobby traveling-nya. Bapak (Farhan) dan Ibu (Cut Mini) selalu mendesaknya segera menikah, karena menurut mereka dengan menikah Trinity akan lebih bahagia. Trinity kembali bertemu dengan Paul (Hamish Daud) tapi menghadapi dilema antara mengejar cinta dan passion-nya.",
+        "casts": [
+          " Maudy Ayunda, ",
+          " Hamish Daud, ",
+          " Rachel Amanda "
+        ],
+        "booked": [
+          [
+            4,
+            18
+          ],
+          [
+            4,
+            19
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157138861225634_287x421.jpg",
+        "video": "https://www.youtube.com/embed/JULU9daSUyw",
+        "age": "18+"
+      },
+      {
+        "id": 4,
+        "name": "Sang Perwira",
+        "genre": [
+          "Drama",
+          "Action"
+        ],
+        "director": "Ponti Gea",
+        "duration": 118,
+        "synopsis": "HORAS (IPDA Dimas Adit S), seorang pemuda yang lahir di sebuah kampung di tepian Danau Toba, bercita-cita menjadi polisi. Keinginannya tersebut sempat ditentang oleh ayahnya lantaran ayahnya ingin Horas menjadi pengusaha sukes agar bisa merubah status sosial keluarga Horas dari ekonomi bawah menjadi strata menengah ke atas. Mampukah Horas mewujudkan cita-citanya? Cerita makin menarik dengan kisah cinta Horas dan Nauli (Anggika Bolsterli) yang romantis dan rumit.",
+        "casts": [
+          "Ipda Aditia ACP, ",
+          " Anggika Bolsterli, ",
+          " Ipda Dimas Adit S "
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157379161737188_287x421.jpg",
+        "video": "https://www.youtube.com/embed/ichWZuehBBY",
+        "age": "15+"
+      },
+      {
+        "id": 5,
+        "name": "Nightmare Side Delusional",
+        "genre": [
+          "Drama",
+          "Horror"
+        ],
+        "director": "Joel Fadly",
+        "duration": 100,
+        "synopsis": "Naya (Fay Nabila) adalah siswi baru di salah satu SMA di Bandung. Naya memiliki kemampuan yang dikenal sebagai anak indigo. Di sekolah barunya, Naya bertemu dengan Shelly (Gege Elisa) yang memiliki kemampuan sama. Namun, sifat Shelly yang tertutup membuat Naya penasaran. Di saat yang sama, Naya juga dibuat penasaran oleh siaran radio Nightmare Side yang didengarnya dan selalu diikuti oleh mimpi buruk seolah kejadian itu nyata.",
+        "casts": [
+          "Gege Elisa, ",
+          " Elina Joerg, ",
+          " Fay Nabila "
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157310760872775_287x421.jpg",
+        "video": "https://www.youtube.com/embed/gHznUeuYK4M",
+        "age": "8+"
+      },
+      {
+        "id": 6,
+        "name": "Frozen II",
+        "genre": [
+          "Animation",
+          "Comedy"
+        ],
+        "director": "Chris Buck",
+        "duration": 103,
+        "synopsis": "Anna, Elsa, Kristoff, Olaf dan Sven pergi meninggalkan Arendelle untuk melakukan perjalanan ke sebuah tempat asing dan penuh keajaiban. Mereka berangkat untuk menemukan asal usul kekuatan Elsa dan juga untuk menyelamatkan kerajaan mereka.",
+        "casts": [
+          " Kristen Bell, ",
+          " Idina Menzel ,",
+          " Jonathan Groff "
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157250534676979_287x421.jpg",
+        "video": "https://www.youtube.com/embed/bwzLiQZDw2I",
+        "age": "20+"
+      },
+      {
+        "id": 7,
+        "name": "Primal",
+        "genre": [
+          "Action"
+        ],
+        "director": "Nick Powell",
+        "duration": 96,
+        "synopsis": "Frank Walsh (Nicolas Cage) adalah seorang spesialis pemburu binatang liar. Hewan-hewan buruannya dikenal langka dan sangat berbahaya. Hasil tangkapan Frank akan dijual kepada penawar tertinggi. Masalah bermula saat kapal yang membawa Frank menuju AS ditumpangi oleh seorang pembunuh bayaran profesional. Dalam perjalanan menuju AS, sang pembunuh berhasil lolos dan melepaskan semua buruan Frank dan membuat kekacauan di dalam kapal.",
+        "casts": [
+          "Nicolas Cage, ",
+          " Famke Jansenn, ",
+          " Kevin Durand "
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15743294977296_287x421.jpg",
+        "video": "https://www.youtube.com/embed/RXRqTrojCbI",
+        "age": "15+"
+      },
+      {
+        "id": 8,
+        "name": "Ford V Ferrari",
+        "genre": [
+          "Action",
+          "Biography",
+          "Drama"
+        ],
+        "director": "James Mangold",
+        "duration": 152,
+        "synopsis": "2 pemenang Academy Award, Matt Damon dan Christian Bale berperan di FORD v FERRARI, berdasarkan kisah nyata yang luar biasa dari Carroll Shelby (Damon), seorang perancang mobil visioner dari Amerika bersama Ken Miles (Bale), seorang pembalap Inggris yang tak kenal takut. Mereka bersama-sama berjuang menghadapi campur tangan perusahaan, hukum fisika, dan masalah pribadi mereka sendiri ketika membangun mobil balap revolusioner bagi Ford Motor Company untuk menantang mobil balap buatan Enzo Ferrari yang mendomniasi 24 Jam Le Mans di Perancis pada tahun 1966.",
+        "casts": [
+          "Matt Damon, ",
+          " Christian Bale, ",
+          " Jon Bernthal "
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/1572858859730_287x421.jpg",
+        "video": "https://www.youtube.com/embed/zyYgDtY2AMY",
+        "age": "15+"
+      },
+      {
+        "id": 9,
+        "name": "Star Wars: The Rise of Skywalker",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "director": "J.J. Abrams",
+        "duration": 142,
+        "synopsis": "Resistance yang selamat sekali lagi akan menghadapi First Order dalam sebuah saga final yang akan menentukan nasib mereka.",
+        "casts": [
+          "Daisy Ridley, ",
+          " Domhnall Gleeson, ",
+          "Joonas Suotamo"
+        ],
+        "booked": [],
+        "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157416306567553_405x594.jpg",
+        "video": "https://www.youtube.com/embed/8Qn_spdM5Zg",
+        "age": "10+"
+      },
+      {
+        "name": "sd",
+        "director": "sd",
+        "image": "sd",
+        "genre": [
+          "sd"
+        ],
+        "duration": "6",
+        "synopsis": "sd",
+        "casts": [
+          "sd"
+        ],
+        "age": "5",
+        "booked": [],
+        "id": 10
+      }
+    ],
+    "users": [
+      {
+        "username": "arul",
+    "password": "123",
+    "role": "user",
+    "email": "Fakhrulmrijal7599@mail.com",
+    "id": 1,
+    "cart": [
+      {
+        "name": "Jumanji: The Next Level",
+        "totalPrice": 50000,
+        "seats": [
+          [
+            2,
+            0
+          ]
+        ],
+        "ticketAmount": 1
+      },
+      {
+        "name": "Primal",
+        "totalPrice": 50000,
+        "seats": [
+          [
+            3,
+            0
+          ]
+        ],
+        "ticketAmount": 1
+      }
+    ],
+    "order": [
+      {
+        "products": [
+          {
+            "name": "Jumanji: The Next Level",
+            "totalPrice": 50000,
+            "seats": [
+              [
+                0,
+                0
+              ]
+            ],
+            "ticketAmount": 1
+          }
+        ],
+        "transactionDate": "2019-12-19T09:17:00.097Z"
+      }
+    ]
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "email": "admin@admin.com",
+    "id": 2,
+    "cart": [
+      {
+        "name": "Jumanji: The Next Level",
+        "totalPrice": 50000,
+        "seats": [
+          [
+            0,
+            1
+          ]
+        ],
+        "ticketAmount": 1
+      }
+    ]
+  },
+  {
+    "username": "doggie",
+    "password": "doggie",
+    "email": "doggie@gmail.com",
+    "role": "user",
+    "id": 3,
+    "cart": []
+  },
+  {
+    "username": "fakhrulmr",
+    "password": "fakhrulmr",
+    "email": "fakhrulmr",
+    "role": "user",
+    "id": 4
+  },
+  {
+    "username": "fakhrulmrijal",
+    "password": "fakhrulmrijal",
+    "email": "fakhrulmrijal",
+    "role": "user",
+    "id": 5,
+    "cart": [],
+    "order": [
+      {
+        "products": [
+          {
+            "name": "Jumanji: The Next Level",
+            "totalPrice": 50000,
+            "seats": [
+              [
+                3,
+                17
+              ]
+            ],
+            "ticketAmount": 1
+          }
+        ],
+        "transactionDate": "2019-12-19T07:49:37.457Z"
+      }
+    ]
+  }
+      
+       
+  
